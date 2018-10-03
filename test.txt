@@ -2,4 +2,5 @@ aaa
 bbb edit on master_branch
 ccc
 ddd edit on master_branch
+ddd edit on hotfix_branch
 eee
